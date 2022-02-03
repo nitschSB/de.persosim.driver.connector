@@ -9,6 +9,6 @@
   </parent>
   <groupId>de.persosim</groupId>
   <artifactId>de.persosim.driver.connector</artifactId>
-  <version>0.17.1-SNAPSHOT</version>
+  <version>0.17.2.20210224</version>
   <packaging>eclipse-plugin</packaging>
 </project>
